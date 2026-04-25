@@ -1,7 +1,7 @@
 # Direction CHOSEN — CRUDO
 
-> **Status:** RECOMMENDED — pending Carlos approval.
-> If Carlos picks A or B instead, this file regenerates for that direction and `meaning-map.md` / `anti-style.md` / `moodboard-shopping-list.md` regenerate to match.
+> **Status:** ✅ APPROVED by Carlos on 2026-04-25.
+> All downstream nodes (3, 4, 5, 6, 7, 8, 9) reference this direction. Changes from here forward require explicit re-approval.
 
 **Stance:** Subversion (tactical pivot variant)
 
